@@ -1,1 +1,1 @@
-# BobiKFT_m-sodikprojekt
+# BobiKFT_masodikprojekt
